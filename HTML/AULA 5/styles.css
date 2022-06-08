@@ -1,0 +1,18 @@
+div{
+    text-align: center;
+    margin:auto;
+}
+
+
+td, tr{
+    color: greenyellow;
+    border: 0.5px solid purple;
+    width: auto;
+}
+table{
+   border: 3px black;
+   border-style: inset inset inset inset;
+   background-color: blueviolet;
+   border-radius: 5px;
+   width: 100%;
+   text-align: center;
